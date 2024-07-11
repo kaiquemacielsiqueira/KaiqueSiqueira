@@ -1,5 +1,6 @@
-<h1 align="center">Olá 👋 , eu sou ou Kaique!</h1>
-<h2 align="center">Estudo Programação e sou Fisioterapeuta atuante na area de ortopedia.   </h2>
+<h1 align="center">Hello! 👋</h1>
+<h2 align="center"> Programming student and Physiotherapist.
+  </h2>
 
 
 <h3 align="left">Ferramentas:</h3>
