@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou ou Kaique</h1>
+<h1 align="center">Olá 👋, eu sou o Kaique</h1>
 <h3 align="center">Programador iniciante</h3>
 
 <h3 align="left">Connect with me:</h3>
